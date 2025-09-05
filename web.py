@@ -1,6 +1,3 @@
-from idlelib.configdialog import font_sample_text
-
-import streamlit as st
 import streamlit as st
 import functions
 
